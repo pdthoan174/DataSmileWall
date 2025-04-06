@@ -68,5 +68,33 @@
     },
     "wallpaper_url": "https://lh3.googleusercontent.com/d/1DODp47wlJ7xOTMeb-M9TEg0F2EjdKiMg=w1000",
     "isPremium": false
+  },
+  {
+    "id_category": 6,
+    "name_category": {
+       "en": "Abstract Horizon",
+  "vi": "Chân trời trừu tượng",
+  "es": "Horizonte abstracto",
+  "de": "Abstrakter Horizont",
+  "ar": "الأفق التجريدي",
+  "hi": "ऐब्सट्रैक्ट क्षितिज",
+  "pt": "Horizonte abstrato"
+    },
+    "wallpaper_url": "https://lh3.googleusercontent.com/d/1DODp47wlJ7xOTMeb-M9TEg0F2EjdKiMg=w1000",
+    "isPremium": false
+  },
+    {
+    "id_category": 7,
+    "name_category": {
+  "en": "3D Wallpaper",
+  "vi": "Hình nền 3D",
+  "es": "Fondo de pantalla 3D",
+  "de": "3D-Hintergrundbild",
+  "ar": "خلفيات ثلاثية الأبعاد",
+  "hi": "3डी वॉलपेपर",
+  "pt": "Papel de parede 3D"
+    },
+    "wallpaper_url": "https://lh3.googleusercontent.com/d/1DODp47wlJ7xOTMeb-M9TEg0F2EjdKiMg=w1000",
+    "isPremium": false
   }
 ]
