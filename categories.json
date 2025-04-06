@@ -1,76 +1,72 @@
 [
-
-    {
-      "id_category": 1,
-      "name_category": {
-        "en": "Silly Smiles",
-        "vi": "Nụ cười ngộ nghĩnh",
-        "es": "Sonrisas tontas",
-        "de": "Alberne Lächeln",
-        "ar": "ابتسامات سخيفة",
-        "hi": "मूर्ख मुस्कान",
-        "pt": "Sorrisos bobos"
-      },
-      "wallpaper_url": "https://i.pinimg.com/736x/c8/d1/50/c8d150944610f0ef00e53c2a3f0c89c9.jpg",
-      "isPremium": false
+  {
+    "id_category": 1,
+    "name_category": {
+      "en": "Silly Smiles",
+      "vi": "Nụ cười ngộ nghĩnh",
+      "es": "Sonrisas tontas",
+      "de": "Alberne Lächeln",
+      "ar": "ابتسامات سخيفة",
+      "hi": "मूर्ख मुस्कान",
+      "pt": "Sorrisos bobos"
     },
-    {
-      "id_category": 2,
-      "name_category": {
-        "en": "Nature",
-        "vi": "Thiên nhiên",
-        "es": "Naturaleza",
-        "de": "Natur",
-        "ar": "الطبيعة",
-        "hi": "प्रकृति",
-        "pt": "Natureza"
-      },
-      "wallpaper_url": "https://dl.dropboxusercontent.com/s/qg3mp573nwz23m2/Downtime.jpg",
-      "isPremium": false
+    "wallpaper_url": "https://i.pinimg.com/736x/c8/d1/50/c8d150944610f0ef00e53c2a3f0c89c9.jpg",
+    "isPremium": false
+  },
+  {
+    "id_category": 2,
+    "name_category": {
+      "en": "Nature",
+      "vi": "Thiên nhiên",
+      "es": "Naturaleza",
+      "de": "Natur",
+      "ar": "الطبيعة",
+      "hi": "प्रकृति",
+      "pt": "Natureza"
     },
-    {
-      "id_category": 3,
-      "name_category": {
-        "en": "Recticon",
-        "vi": "Trừu tượng",
-        "es": "Abstracto",
-        "de": "Abstrakt",
-        "ar": "مجرد",
-        "hi": "अमूर्त",
-        "pt": "Abstrato"
-      },
-      "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/85t.png",
-      "isPremium": false
+    "wallpaper_url": "https://dl.dropboxusercontent.com/s/qg3mp573nwz23m2/Downtime.jpg",
+    "isPremium": false
+  },
+  {
+    "id_category": 3,
+    "name_category": {
+      "en": "Recticon",
+      "vi": "Trừu tượng",
+      "es": "Abstracto",
+      "de": "Abstrakt",
+      "ar": "مجرد",
+      "hi": "अमूर्त",
+      "pt": "Abstrato"
     },
-    {
-      "id_category": 4,
-      "name_category": {
-        "en": "Nature & Space",
-        "vi": "Thiên nhiên & Vũ trụ",
-        "es": "Naturaleza y Espacio",
-        "de": "Natur & Weltraum",
-        "ar": "الطبيعة والفضاء",
-        "hi": "प्रकृति और अंतरिक्ष",
-        "pt": "Natureza e Espaço"
-      },
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space5.jpg",
-      "isPremium": false
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/85t.png",
+    "isPremium": false
+  },
+  {
+    "id_category": 4,
+    "name_category": {
+      "en": "Nature & Space",
+      "vi": "Thiên nhiên & Vũ trụ",
+      "es": "Naturaleza y Espacio",
+      "de": "Natur & Weltraum",
+      "ar": "الطبيعة والفضاء",
+      "hi": "प्रकृति और अंतरिक्ष",
+      "pt": "Natureza e Espaço"
     },
-    {
-      "id_category": 5,
-      "name_category": {
-        "en": "OS Wallpaper",
-        "vi": "Hình nền hệ điều hành",
-        "es": "Fondo de pantalla del sistema",
-        "de": "Betriebssystem-Hintergrundbild",
-        "ar": "خلفيات نظام التشغيل",
-        "hi": "ओएस वॉलपेपर",
-        "pt": "Papel de parede do sistema"
-      },
-      "wallpaper_url": "https://lh3.googleusercontent.com/d/1DODp47wlJ7xOTMeb-M9TEg0F2EjdKiMg=w1000",
-      "isPremium": false
-    }
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space5.jpg",
+    "isPremium": false
+  },
+  {
+    "id_category": 5,
+    "name_category": {
+      "en": "OS Wallpaper",
+      "vi": "Hình nền hệ điều hành",
+      "es": "Fondo de pantalla del sistema",
+      "de": "Betriebssystem-Hintergrundbild",
+      "ar": "خلفيات نظام التشغيل",
+      "hi": "ओएस वॉलपेपर",
+      "pt": "Papel de parede do sistema"
+    },
+    "wallpaper_url": "https://lh3.googleusercontent.com/d/1DODp47wlJ7xOTMeb-M9TEg0F2EjdKiMg=w1000",
+    "isPremium": false
+  }
 ]
-
-
-
