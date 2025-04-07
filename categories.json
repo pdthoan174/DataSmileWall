@@ -25,7 +25,7 @@
       "pt": "Natureza"
     },
     "wallpaper_url": "https://dl.dropboxusercontent.com/s/qg3mp573nwz23m2/Downtime.jpg",
-    "isPremium": false
+    "isPremium": true
   },
   {
     "id_category": 3,
@@ -53,7 +53,7 @@
       "pt": "Natureza e Espaço"
     },
     "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space5.jpg",
-    "isPremium": false
+    "isPremium": true
   },
   {
     "id_category": 5,
