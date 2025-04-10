@@ -1,0 +1,410 @@
+[
+  {
+    "id": 4441,
+    "wallpaper_name": "Nature 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature1.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature1.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 4442,
+    "wallpaper_name": "Nature 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature2.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature2.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 4443,
+    "wallpaper_name": "Nature 3",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature3.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature3.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 4444,
+    "wallpaper_name": "Nature 4",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature4.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature4.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 4445,
+    "wallpaper_name": "Nature 5",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature5.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature5.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 4446,
+    "wallpaper_name": "Sunset 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset1.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset1.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 4447,
+    "wallpaper_name": "Sunset 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset2.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset2.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 4448,
+    "wallpaper_name": "Sunset 3",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset3.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset3.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 4449,
+    "wallpaper_name": "Animal 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal1.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal1.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44410,
+    "wallpaper_name": "Animal 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal2.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal2.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44411,
+    "wallpaper_name": "Animal 3",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal3.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal3.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44412,
+    "wallpaper_name": "Animal 4",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal4.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal4.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44413,
+    "wallpaper_name": "Animal 5",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal5.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal5.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44414,
+    "wallpaper_name": "Forest 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest1.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest1.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44415,
+    "wallpaper_name": "Forest 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest2.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest2.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44416,
+    "wallpaper_name": "Forest 3",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest3.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest3.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44417,
+    "wallpaper_name": "Forest 4",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest4.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest4.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44418,
+    "wallpaper_name": "Forest 5",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest5.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest5.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44419,
+    "wallpaper_name": "City 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city1.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city1.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44420,
+    "wallpaper_name": "City 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city2.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city2.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44421,
+    "wallpaper_name": "City 3",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city3.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city3.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44422,
+    "wallpaper_name": "City 4",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city4.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city4.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44423,
+    "wallpaper_name": "City 5",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city5.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city5.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44424,
+    "wallpaper_name": "Flower 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower1.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower1.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44425,
+    "wallpaper_name": "Flower 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower2.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower2.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44426,
+    "wallpaper_name": "Flower 3",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower3.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower3.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44427,
+    "wallpaper_name": "Flower 4",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower4.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower4.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44428,
+    "wallpaper_name": "Flower 5",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower5.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower5.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44429,
+    "wallpaper_name": "Flower 6",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower6.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower6.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44430,
+    "wallpaper_name": "Beach 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach1.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach1.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44431,
+    "wallpaper_name": "Beach 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach2.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach2.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44432,
+    "wallpaper_name": "Beach 3",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach3.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach3.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44433,
+    "wallpaper_name": "Beach 4",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach4.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach4.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44434,
+    "wallpaper_name": "Beach 5",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach5.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach5.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44435,
+    "wallpaper_name": "House 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/house1.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/house1.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44436,
+    "wallpaper_name": "House 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/house2.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/house2.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44437,
+    "wallpaper_name": "Space 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space1.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space1.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44438,
+    "wallpaper_name": "Space 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space2.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space2.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44439,
+    "wallpaper_name": "Space 3",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space3.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space3.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44440,
+    "wallpaper_name": "Space 4",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space4.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space4.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44441,
+    "wallpaper_name": "Space 5",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space5.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space5.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44442,
+    "wallpaper_name": "Mountain 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain1.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain1.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44443,
+    "wallpaper_name": "Mountain 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain2.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain2.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44444,
+    "wallpaper_name": "Mountain 3",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain3.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain3.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44445,
+    "wallpaper_name": "Mountain 4",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain4.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain4.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44446,
+    "wallpaper_name": "Mountain 5",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain5.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain5.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44447,
+    "wallpaper_name": "Road 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road1.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road1.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44448,
+    "wallpaper_name": "Road 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road2.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road2.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44449,
+    "wallpaper_name": "Road 3",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road3.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road3.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44450,
+    "wallpaper_name": "Road 4",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road4.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road4.jpg",
+    "id_category": 4
+  },
+  {
+    "id": 44451,
+    "wallpaper_name": "Road 5",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road5.jpg",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road5.jpg",
+    "id_category": 4
+  }
+]
