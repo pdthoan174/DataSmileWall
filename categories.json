@@ -85,16 +85,16 @@
   },
     {
     "id_category": 7,
-    "name_category": {
-  "en": "3D Wallpaper",
-  "vi": "Hình nền 3D",
-  "es": "Fondo de pantalla 3D",
-  "de": "3D-Hintergrundbild",
-  "ar": "خلفيات ثلاثية الأبعاد",
-  "hi": "3डी वॉलपेपर",
-  "pt": "Papel de parede 3D"
-    },
-    "wallpaper_url": "https://lh3.googleusercontent.com/d/1jbxunFb6yjEgsN_J0dYvuH_URxsLdvHr=w1000",
-    "isPremium": false
+"name_category": {
+  "en": "Amoled Glow",
+  "vi": "Ánh sáng Amoled",
+  "es": "Brillo Amoled",
+  "de": "Amoled-Glanz",
+  "ar": "توَهُج أموليد",
+  "hi": "एमोलेड चमक",
+  "pt": "Brilho Amoled"
+}
+    "wallpaper_url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/PixelStyleAmoled.png",
+    "isPremium": true
   }
 ]
