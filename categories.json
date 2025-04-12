@@ -83,18 +83,18 @@
     "wallpaper_url": "https://unvoid.co/borealis/wallpapers/borealis-flow.png",
     "isPremium": false
   },
-  {
-    "id_category": 6,
-    "name_category": {
-       "en": "Abstract Horizon",
-  "vi": "Chân trời trừu tượng",
-  "es": "Horizonte abstracto",
-  "de": "Abstrakter Horizont",
-  "ar": "الأفق التجريدي",
-  "hi": "ऐब्सट्रैक्ट क्षितिज",
-  "pt": "Horizonte abstrato"
-    },
-    "wallpaper_url": "https://unvoid.co/borealis/wallpapers/borealis-flow.png",
-    "isPremium": false
-  }
+{
+  "id_category": 7,
+  "name_category": {
+    "en": "Amoled Glow",
+    "vi": "Ánh sáng Amoled",
+    "es": "Brillo Amoled",
+    "de": "Amoled-Glanz",
+    "ar": "توَهُج أموليد",
+    "hi": "एमोलेड चमक",
+    "pt": "Brilho Amoled"
+  },
+  "wallpaper_url": "https://unvoid.co/borealis/wallpapers/borealis-flow.png",
+  "isPremium": false
+}
 ]
