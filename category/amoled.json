@@ -1,29 +1,5 @@
 [
   {
-    "id": 55530,
-    "wallpaper_name": "Black Panther Red",
-    "wallpaper_type": "IMAGE",
-    "wallpaper_url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherRed.png",
-    "wallpaper_thumbnail": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherRed.png",
-    "id_category": 5
-  },
-  {
-    "id": 55532,
-    "wallpaper_name": "Black Panther Purple",
-    "wallpaper_type": "IMAGE",
-    "wallpaper_url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherPurple.png",
-    "wallpaper_thumbnail": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherPurple.png",
-    "id_category": 5
-  },
-  {
-    "id": 55534,
-    "wallpaper_name": "Black Panther Yellow",
-    "wallpaper_type": "IMAGE",
-    "wallpaper_url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow.png",
-    "wallpaper_thumbnail": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow.png",
-    "id_category": 5
-  },
-  {
     "id": 55536,
     "wallpaper_name": "Black Panther Red 1",
     "wallpaper_type": "IMAGE",
@@ -55,6 +31,14 @@
     "wallpaper_thumbnail": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherPurple2.png",
     "id_category": 5
   },
+    {
+    "id": 55546,
+    "wallpaper_name": "Black Panther Yellow 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow2.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow2.png",
+    "id_category": 5
+  },
   {
     "id": 55544,
     "wallpaper_name": "Black Panther Yellow 1",
@@ -63,12 +47,29 @@
     "wallpaper_thumbnail": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow1.png",
     "id_category": 5
   },
-  {
-    "id": 55546,
-    "wallpaper_name": "Black Panther Yellow 2",
+
+   {
+    "id": 55530,
+    "wallpaper_name": "Black Panther Red",
     "wallpaper_type": "IMAGE",
-    "wallpaper_url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow2.png",
-    "wallpaper_thumbnail": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow2.png",
+    "wallpaper_url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherRed.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherRed.png",
+    "id_category": 5
+  },
+  {
+    "id": 55532,
+    "wallpaper_name": "Black Panther Purple",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherPurple.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherPurple.png",
+    "id_category": 5
+  },
+  {
+    "id": 55534,
+    "wallpaper_name": "Black Panther Yellow",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/mathyeckerdt/Apricity/master/BlackPantherYellow.png",
     "id_category": 5
   },
   {
