@@ -2,13 +2,17 @@
   "categories": [
     {
       "id_category": 1,
-      "name_category": "Silly Smiles",
-      "wallpaper_url": "https://i.pinimg.com/736x/c8/d1/50/c8d150944610f0ef00e53c2a3f0c89c9.jpg"
+    "name_category": {
+      "en": "Silly Smiles",
+      "vi": "Nụ cười ngộ nghĩnh",
+      "es": "Sonrisas tontas",
+      "de": "Alberne Lächeln",
+      "ar": "ابتسامات سخيفة",
+      "hi": "मूर्ख मुस्कान",
+      "pt": "Sorrisos bobos"
     },
-    {
-      "id_category": 2,
-      "name_category": "Silly Smiles",
-      "wallpaper_url": "https://i.pinimg.com/736x/c8/d1/50/c8d150944610f0ef00e53c2a3f0c89c9.jpg"
+    "wallpaper_url": "https://i.pinimg.com/originals/02/94/03/0294039319b0ae5d330aa824d1aa8170.jpg",
+    "isPremium": true
     }
   ],
   "wallpaper": [
