@@ -14,5 +14,93 @@
       "wallpaper_url": "https://i.pinimg.com/564x/58/80/7f/58807f1f7ab6c41a27c4150041aab5af.jpg",
       "wallpaper_thumbnail": "https://i.pinimg.com/564x/58/80/7f/58807f1f7ab6c41a27c4150041aab5af.jpg",
       "id_category": 1
-    }
+    },
+    {
+    "id": 33324,
+    "wallpaper_name": "SmartPhone Teal",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/64.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/64t.png",
+    "id_category": 3
+  },
+  {
+    "id": 33325,
+    "wallpaper_name": "Happy New Year",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/45.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/45t.png",
+    "id_category": 3
+  },
+  {
+    "id": 33326,
+    "wallpaper_name": "Edinburg",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/62.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/62t.png",
+    "id_category": 3
+  },
+  {
+    "id": 33327,
+    "wallpaper_name": "Container Ship",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/59.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/59t.png",
+    "id_category": 3
+  },
+  {
+    "id": 33328,
+    "wallpaper_name": "Blue and Gold Macaw",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/61.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/61t.png",
+    "id_category": 3
+  },
+  {
+    "id": 33329,
+    "wallpaper_name": "Grosbeak",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/60.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/60t.png",
+    "id_category": 3
+  },
+  {
+    "id": 33330,
+    "wallpaper_name": "Material 1",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/54.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/54t.png",
+    "id_category": 3
+  },
+  {
+    "id": 33331,
+    "wallpaper_name": "Material 2",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/55.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/55t.png",
+    "id_category": 3
+  },
+  {
+    "id": 33332,
+    "wallpaper_name": "Material 6",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/65.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/65t.png",
+    "id_category": 3
+  },
+  {
+    "id": 33333,
+    "wallpaper_name": "Material 3",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/56.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/56t.png",
+    "id_category": 3
+  },
+  {
+    "id": 33334,
+    "wallpaper_name": "Material 4",
+    "wallpaper_type": "IMAGE",
+    "wallpaper_url": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/57.png",
+    "wallpaper_thumbnail": "https://raw.githubusercontent.com/SpaceMan013/VectorScapes/master/57t.png",
+    "id_category": 3
+  },
 ]
