@@ -1,9 +1,9 @@
 {
   "categories": [
     {
-      "id_category": 1,
+      "id_category": 0,
       "name_category": {
-        "en": "Silly Cate 1",
+        "en": "Silly Smile",
         "vi": "Nụ cười ngộ nghĩnh",
         "es": "Sonrisas tontas",
         "de": "Alberne Lächeln",
@@ -29,7 +29,7 @@
       "isPremium": true
     },
     {
-      "id_category": 1,
+      "id_category": 2,
       "name_category": {
         "en": "Canhr dep",
         "vi": "Nụ cười ngộ nghĩnh",
@@ -43,7 +43,7 @@
       "isPremium": true
     },
     {
-      "id_category": 1,
+      "id_category": 3,
       "name_category": {
         "en": "Hot Girl",
         "vi": "Nụ cười ngộ nghĩnh",
@@ -57,7 +57,7 @@
       "isPremium": true
     },
     {
-      "id_category": 1,
+      "id_category": 4,
       "name_category": {
         "en": "Nature",
         "vi": "Nụ cười ngộ nghĩnh",
@@ -78,7 +78,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/2.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/2.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 95,
@@ -86,7 +86,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/20.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/20.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 96,
@@ -94,7 +94,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/7.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/7.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 97,
@@ -102,7 +102,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/11.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/11.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 98,
@@ -110,7 +110,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/4.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/4.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 99,
@@ -118,7 +118,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/13.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/13.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 100,
@@ -126,7 +126,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/12.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/12.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 101,
@@ -134,7 +134,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/5.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/5.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 102,
@@ -142,7 +142,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/14.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/14.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 103,
@@ -150,7 +150,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/1.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/1.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 104,
@@ -158,7 +158,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/17.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/17.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 105,
@@ -166,7 +166,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/8.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/8.jpg",
-      "id_category": 2
+      "id_category": 0
     },
     {
       "id": 106,
@@ -174,7 +174,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/10.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/10.jpg",
-      "id_category": 2
+      "id_category": 0
     },
     {
       "id": 107,
@@ -182,7 +182,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/19.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/19.jpg",
-      "id_category": 2
+      "id_category": 0
     },
     {
       "id": 108,
@@ -190,7 +190,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/6.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/6.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 109,
@@ -198,7 +198,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/9.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/9.jpg",
-      "id_category": 4
+      "id_category": 0
     },
     {
       "id": 110,
@@ -206,7 +206,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/3.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/3.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 111,
@@ -214,7 +214,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/18.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/18.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 112,
@@ -222,7 +222,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/16.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/16.jpg",
-      "id_category": 1
+      "id_category": 0
     },
     {
       "id": 113,
@@ -230,7 +230,7 @@
       "wallpaper_type": "MP4",
       "wallpaper_url": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/15.mp4",
       "wallpaper_thumbnail": "http://technoapp.xyz/android/livewallpaper/Silly-Smile/thumb/15.jpg",
-      "id_category": 1
+      "id_category": 0
     }
   ]
 }
